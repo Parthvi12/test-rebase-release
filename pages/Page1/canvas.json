@@ -25,7 +25,59 @@
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0,
-          "children": []
+          "children": [
+            {
+              "resetFormOnClick": false,
+              "boxShadow": "none",
+              "mobileBottomRow": 27,
+              "widgetName": "Button1",
+              "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+              "displayName": "Button",
+              "iconSVG": "https://release-appcdn.appsmith.com/static/media/icon.7beb9123fb53027d9d6b778cdfe4caed.svg",
+              "searchTags": [
+                "click",
+                "submit"
+              ],
+              "topRow": 23,
+              "bottomRow": 27,
+              "parentRowSpace": 10,
+              "type": "BUTTON_WIDGET",
+              "hideCard": false,
+              "mobileRightColumn": 30,
+              "animateLoading": true,
+              "parentColumnSpace": 12.578125,
+              "leftColumn": 14,
+              "dynamicBindingPathList": [
+                {
+                  "key": "buttonColor"
+                },
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "text": "Submit",
+              "isDisabled": false,
+              "key": "pokopkj4t4",
+              "isDeprecated": false,
+              "rightColumn": 30,
+              "isDefaultClickDisabled": true,
+              "widgetId": "jwnxw0e3jj",
+              "minWidth": 120,
+              "isVisible": true,
+              "recaptchaType": "V3",
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "mobileTopRow": 23,
+              "responsiveBehavior": "hug",
+              "disabledWhenInvalid": false,
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "mobileLeftColumn": 14,
+              "buttonVariant": "PRIMARY",
+              "placement": "CENTER"
+            }
+          ]
         },
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
